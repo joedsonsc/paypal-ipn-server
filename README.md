@@ -1,5 +1,3 @@
-# paypal-ipn-server
-Servidor Node.js para validação de pagamentos via PayPal IPN
 {
   "name": "paypal-ipn-server",
   "version": "1.0.0",
